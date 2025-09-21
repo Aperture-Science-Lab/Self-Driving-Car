@@ -1,5 +1,11 @@
 # Aperture Science Self-Driving Automobile Initiative
 
+### 🎙️ A Message from our CEO, Cave Johnson!
+
+[![Listen to the Speech](httpsaxl-corp.github.io/Aperture-Science-Self-Driving-Automobile-Initiative/play-button.png)](https://github.com/axl-corp/Aperture-Science-Self-Driving-Automobile-Initiative/blob/main/ReadME.mp3)
+
+*(Click the player above to hear the full audio message)*
+
 ## A Note from the Desk of Cave Johnson, CEO
 
 Alright, you're here. That means you're the best of the best. The cream of the crop. The folks who looked at a perfectly good car that you have to steer with your hands and said, "I can do better." I like that. A lot.
