@@ -1,5 +1,13 @@
 # Aperture Science Self-Driving Automobile Initiative
 
+## 🎙️ A Message from our CEO, Cave Johnson!
+
+[![Listen to the Speech](https://img.shields.io/badge/🎤-Listen%20to%20Cave%20Johnson-orange?style=for-the-badge)](https://github.com/Aperture-Science-Lab/Self-Driving-Car/raw/main/ReadME.mp3)
+
+*(Click the badge above to hear the full audio message)*
+
+---
+
 ## A Note from the Desk of Cave Johnson, CEO
 
 Alright, you're here. That means you're the best of the best. The cream of the crop. The folks who looked at a perfectly good car that you have to steer with your hands and said, "I can do better." I like that. A lot.
