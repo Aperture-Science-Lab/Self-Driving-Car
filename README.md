@@ -1,11 +1,5 @@
 # Aperture Science Self-Driving Automobile Initiative
 
-## 🎙️ A Message from our CEO, Cave Johnson!
-
-[![Listen to the Speech]](https://github.com/Aperture-Science-Lab/Self-Driving-Car/raw/main/ReadME.mp3)
-
-*(Click the player above to hear the full audio message)*
-
 ## A Note from the Desk of Cave Johnson, CEO
 
 Alright, you're here. That means you're the best of the best. The cream of the crop. The folks who looked at a perfectly good car that you have to steer with your hands and said, "I can do better." I like that. A lot.
@@ -36,9 +30,11 @@ You might have heard of a little outfit called Black Mesa. Sounds like a snooze-
 
 My assistant, Caroline, tells me there are some educational VCR tapes out there that can get you up to speed.
 
-- **University of Toronto's Self-Driving Car Course**: Good stuff. Smart folks up there in Canada.
-- **Stanford's Algorithm Course**: Algorithms, people! That's the secret sauce!
-- **Andrew Ng's Machine Learning Tapes**: This fella's teaching machines how to think. We're teaching them how to drive. It's a match made in heaven.
+- **[University of Toronto's Self-Driving Car Course](https://www.coursera.org/specializations/self-driving-cars)**: Good stuff. Smart folks up there in Canada.
+
+- **[Stanford's Algorithm Course](https://www.coursera.org/specializations/algorithms)**: Algorithms, people! That's the secret sauce!
+
+- **[Andrew Ng's Machine Learning Tapes](https://www.coursera.org/specializations/machine-learning-introduction)**: This fella's teaching machines how to think. We're teaching them how to drive. It's a match made in heaven.
 
 ## Aperture Science Safety Disclaimer
 
@@ -46,4 +42,4 @@ By cloning this repository, you agree that Aperture Science is not liable for an
 
 ---
 
-Cave Johnson, we're done here.
+**Cave Johnson, we're done here.**
