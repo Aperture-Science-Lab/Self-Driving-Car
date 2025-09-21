@@ -2,7 +2,7 @@
 
 ### 🎙️ A Message from our CEO, Cave Johnson!
 
-[![Listen to the Speech](httpsaxl-corp.github.io/Aperture-Science-Self-Driving-Automobile-Initiative/play-button.png)](https://github.com/Aperture-Science-Lab/Self-Driving-Car/blob/main/ReadME.mp3)
+[![Listen to the Speech](httpsaxl-corp.github.io/Aperture-Science-Self-Driving-Automobile-Initiative/play-button.png)](https://github.com/Aperture-Science-Lab/Self-Driving-Car/raw/main/ReadME.mp3)
 
 *(Click the player above to hear the full audio message)*
 
