@@ -33,10 +33,10 @@ public:
     const double max_velocity;
     const double min_velocity;
     const double max_acceleration;
-    const double min_acceleration;
+    const double max_deceleration;
 
-    KinematicBicycleModel(double wb, double max_steer = 0.5236, double max_vel = 50.0, double min_vel = 0.0, double max_accel = 3.0, double min_accel = -5.0, const VehicleState& initial_state = VehicleState())
-        : wheelbase(wb), max_steering_angle(max_steer), max_velocity(max_vel), min_velocity(min_vel), max_acceleration(max_accel), min_acceleration(min_accel), state(initial_state) {}
+    KinematicBicycleModel(double wb, double max_steer = 0.5236, double max_vel = 50.0, double min_vel = 0.0, double max_accel = 3.0, double max_decel = 5.0, const VehicleState& initial_state = VehicleState())
+        : wheelbase(wb), max_steering_angle(max_steer), max_velocity(max_vel), min_velocity(min_vel), max_acceleration(max_accel), max_deceleration(max_decel), state(initial_state) {}
 
     VehicleState getState() const {
         return state;
@@ -84,7 +84,7 @@ public:
         if (throttle > 0) {
             acceleration = throttle * max_acceleration;
         } else if (brake > 0) {
-            acceleration = -brake * -1 * min_acceleration;
+            acceleration = -brake * max_deceleration;
         }
 
         state.v = std::max(min_velocity, std::min(max_velocity, state.v));
